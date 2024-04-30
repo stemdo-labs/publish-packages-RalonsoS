@@ -54,6 +54,7 @@ Adelante haz click en el botón.
    - Recomendamos crear un repositorio público, ya que los repositorios privados [utilizarán minutos de Actions](https://docs.github.com/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
    - Desplázate hacia abajo y haz clic en el botón **Crear repositorio** en la parte inferior del formulario.
 3. Después de que se cree tu nuevo repositorio, espera unos 20 segundos, luego actualiza la página. Sigue las instrucciones paso a paso en el README del nuevo repositorio.
+.
 
 <footer>
 
